@@ -1,0 +1,25 @@
+{
+  "name": "Medicare Dark",
+  "dataColors": [
+    "#00B4D8",
+    "#0077B6",
+    "#90E0EF",
+    "#ADE8F4",
+    "#48CAE4",
+    "#023E8A",
+    "#03045E",
+    "#CAF0F8"
+  ],
+  "background": "#0F1117",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#00B4D8",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1A1D27"}}}],
+        "border": [{"show": false}],
+        "title": [{"fontColor": {"solid": {"color": "#FFFFFF"}}}]
+      }
+    }
+  }
+}
