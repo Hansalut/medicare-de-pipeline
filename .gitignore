@@ -5,3 +5,4 @@ __pycache__/
 data/raw/*.csv
 *.log
 .DS_Store
+data/processed/*.csv
