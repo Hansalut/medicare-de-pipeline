@@ -8,7 +8,7 @@ This pipeline ingests real, publicly available CMS data on ~80,000 California-ba
 
 ## Business Problem
 
-Healthcare providers submit charges to Medicare, but Medicare pays a standardized, often much lower amount. Understanding this "billed vs. paid" gap — and how it varies by specialty, geography, and provider type — is core to healthcare finance and value-based care analysis, directly relevant to Medicare cost containment and provider network design.
+Healthcare providers submit charges to Medicare, but Medicare pays a standardized, often much lower amount. Understanding this "billed vs. paid" gap and how it varies by specialty, geography, and provider type — is core to healthcare finance and value-based care analysis, directly relevant to Medicare cost containment and provider network design.
 
 ## Dashboard Preview
 
